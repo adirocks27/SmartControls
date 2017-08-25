@@ -1,0 +1,171 @@
+[{
+	"objid": "objid 1",
+	"usrty": "usrty 1",
+	"usrid": "usrid 1",
+	"partner": "partner 1",
+	"otype": "otype 1",
+	"otjid": "otjid 1",
+	"stext": "stext 1",
+	"istat": "istat 1",
+	"begda": "/Date(1449300775000)/",
+	"endda": "/Date(1392535975000)/",
+	"sclas": "sclas 1",
+	"sobid": "sobid 1",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%201')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 2",
+	"usrty": "usrty 2",
+	"usrid": "usrid 2",
+	"partner": "partner 2",
+	"otype": "otype 2",
+	"otjid": "otjid 2",
+	"stext": "stext 2",
+	"istat": "istat 2",
+	"begda": "/Date(1231399975000)/",
+	"endda": "/Date(1265787175000)/",
+	"sclas": "sclas 2",
+	"sobid": "sobid 2",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%202')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 3",
+	"usrty": "usrty 3",
+	"usrid": "usrid 3",
+	"partner": "partner 3",
+	"otype": "otype 3",
+	"otjid": "otjid 3",
+	"stext": "stext 3",
+	"istat": "istat 3",
+	"begda": "/Date(1440228775000)/",
+	"endda": "/Date(1293262375000)/",
+	"sclas": "sclas 3",
+	"sobid": "sobid 3",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%203')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 4",
+	"usrty": "usrty 4",
+	"usrid": "usrid 4",
+	"partner": "partner 4",
+	"otype": "otype 4",
+	"otjid": "otjid 4",
+	"stext": "stext 4",
+	"istat": "istat 4",
+	"begda": "/Date(1069054375000)/",
+	"endda": "/Date(1366702375000)/",
+	"sclas": "sclas 4",
+	"sobid": "sobid 4",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%204')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 5",
+	"usrty": "usrty 5",
+	"usrid": "usrid 5",
+	"partner": "partner 5",
+	"otype": "otype 5",
+	"otjid": "otjid 5",
+	"stext": "stext 5",
+	"istat": "istat 5",
+	"begda": "/Date(1184139175000)/",
+	"endda": "/Date(1276587175000)/",
+	"sclas": "sclas 5",
+	"sobid": "sobid 5",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%205')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 6",
+	"usrty": "usrty 6",
+	"usrid": "usrid 6",
+	"partner": "partner 6",
+	"otype": "otype 6",
+	"otjid": "otjid 6",
+	"stext": "stext 6",
+	"istat": "istat 6",
+	"begda": "/Date(1200295975000)/",
+	"endda": "/Date(1300865575000)/",
+	"sclas": "sclas 6",
+	"sobid": "sobid 6",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%206')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 7",
+	"usrty": "usrty 7",
+	"usrid": "usrid 7",
+	"partner": "partner 7",
+	"otype": "otype 7",
+	"otjid": "otjid 7",
+	"stext": "stext 7",
+	"istat": "istat 7",
+	"begda": "/Date(1052119975000)/",
+	"endda": "/Date(1528183975000)/",
+	"sclas": "sclas 7",
+	"sobid": "sobid 7",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%207')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 8",
+	"usrty": "usrty 8",
+	"usrid": "usrid 8",
+	"partner": "partner 8",
+	"otype": "otype 8",
+	"otjid": "otjid 8",
+	"stext": "stext 8",
+	"istat": "istat 8",
+	"begda": "/Date(1241681575000)/",
+	"endda": "/Date(1553758375000)/",
+	"sclas": "sclas 8",
+	"sobid": "sobid 8",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%208')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 9",
+	"usrty": "usrty 9",
+	"usrid": "usrid 9",
+	"partner": "partner 9",
+	"otype": "otype 9",
+	"otjid": "otjid 9",
+	"stext": "stext 9",
+	"istat": "istat 9",
+	"begda": "/Date(1163403175000)/",
+	"endda": "/Date(1187076775000)/",
+	"sclas": "sclas 9",
+	"sobid": "sobid 9",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%209')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}, {
+	"objid": "objid 10",
+	"usrty": "usrty 10",
+	"usrid": "usrid 10",
+	"partner": "partner 10",
+	"otype": "otype 10",
+	"otjid": "otjid 10",
+	"stext": "stext 10",
+	"istat": "istat 10",
+	"begda": "/Date(1039505575000)/",
+	"endda": "/Date(1403508775000)/",
+	"sclas": "sclas 10",
+	"sobid": "sobid 10",
+	"__metadata": {
+		"uri": "xSTLxrecds_c_le_exe('objid%2010')",
+		"type": "com.sap.GL.zrha.xSTLxrecds_c_le_exeType"
+	}
+}]

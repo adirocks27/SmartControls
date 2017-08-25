@@ -1,0 +1,181 @@
+[{
+	"Id": "Id 1",
+	"Bukrs": "Bukrs 1",
+	"Gjahr": "Gjahr 1",
+	"Kunnr": "Kunnr 1",
+	"Dmbtr": 6964.3,
+	"Hwaer": "Hwaer 1",
+	"Name1": "Name1 1",
+	"BUDAT": "/Date(1276759962000)/",
+	"BLDAT": "/Date(1429255962000)/",
+	"Cnt": 4317,
+	"MyBoolean": false,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 1",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%201')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 2",
+	"Bukrs": "Bukrs 2",
+	"Gjahr": "Gjahr 2",
+	"Kunnr": "Kunnr 2",
+	"Dmbtr": 3049.18,
+	"Hwaer": "Hwaer 2",
+	"Name1": "Name1 2",
+	"BUDAT": "/Date(1480750362000)/",
+	"BLDAT": "/Date(994231962000)/",
+	"Cnt": 1842,
+	"MyBoolean": false,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 2",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%202')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 3",
+	"Bukrs": "Bukrs 3",
+	"Gjahr": "Gjahr 3",
+	"Kunnr": "Kunnr 3",
+	"Dmbtr": 4612.57,
+	"Hwaer": "Hwaer 3",
+	"Name1": "Name1 3",
+	"BUDAT": "/Date(1383291162000)/",
+	"BLDAT": "/Date(1307345562000)/",
+	"Cnt": 4182,
+	"MyBoolean": true,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 3",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%203')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 4",
+	"Bukrs": "Bukrs 4",
+	"Gjahr": "Gjahr 4",
+	"Kunnr": "Kunnr 4",
+	"Dmbtr": 8745.12,
+	"Hwaer": "Hwaer 4",
+	"Name1": "Name1 4",
+	"BUDAT": "/Date(1188199962000)/",
+	"BLDAT": "/Date(1274167962000)/",
+	"Cnt": 8592,
+	"MyBoolean": true,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 4",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%204')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 5",
+	"Bukrs": "Bukrs 5",
+	"Gjahr": "Gjahr 5",
+	"Kunnr": "Kunnr 5",
+	"Dmbtr": 1342.18,
+	"Hwaer": "Hwaer 5",
+	"Name1": "Name1 5",
+	"BUDAT": "/Date(1357198362000)/",
+	"BLDAT": "/Date(1435217562000)/",
+	"Cnt": 2809,
+	"MyBoolean": false,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 5",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%205')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 6",
+	"Bukrs": "Bukrs 6",
+	"Gjahr": "Gjahr 6",
+	"Kunnr": "Kunnr 6",
+	"Dmbtr": 8680.62,
+	"Hwaer": "Hwaer 6",
+	"Name1": "Name1 6",
+	"BUDAT": "/Date(1455262362000)/",
+	"BLDAT": "/Date(1500967962000)/",
+	"Cnt": 7740,
+	"MyBoolean": false,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 6",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%206')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 7",
+	"Bukrs": "Bukrs 7",
+	"Gjahr": "Gjahr 7",
+	"Kunnr": "Kunnr 7",
+	"Dmbtr": 766.09,
+	"Hwaer": "Hwaer 7",
+	"Name1": "Name1 7",
+	"BUDAT": "/Date(1309678362000)/",
+	"BLDAT": "/Date(1386055962000)/",
+	"Cnt": 9016,
+	"MyBoolean": true,
+	"YourBoolean": false,
+	"FCOwner": "FCOwner 7",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%207')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 8",
+	"Bukrs": "Bukrs 8",
+	"Gjahr": "Gjahr 8",
+	"Kunnr": "Kunnr 8",
+	"Dmbtr": 3956.99,
+	"Hwaer": "Hwaer 8",
+	"Name1": "Name1 8",
+	"BUDAT": "/Date(1498203162000)/",
+	"BLDAT": "/Date(1172993562000)/",
+	"Cnt": 4667,
+	"MyBoolean": true,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 8",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%208')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 9",
+	"Bukrs": "Bukrs 9",
+	"Gjahr": "Gjahr 9",
+	"Kunnr": "Kunnr 9",
+	"Dmbtr": 9423.92,
+	"Hwaer": "Hwaer 9",
+	"Name1": "Name1 9",
+	"BUDAT": "/Date(1307086362000)/",
+	"BLDAT": "/Date(1003563162000)/",
+	"Cnt": 5888,
+	"MyBoolean": true,
+	"YourBoolean": false,
+	"FCOwner": "FCOwner 9",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%209')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}, {
+	"Id": "Id 10",
+	"Bukrs": "Bukrs 10",
+	"Gjahr": "Gjahr 10",
+	"Kunnr": "Kunnr 10",
+	"Dmbtr": 6140.6,
+	"Hwaer": "Hwaer 10",
+	"Name1": "Name1 10",
+	"BUDAT": "/Date(1278487962000)/",
+	"BLDAT": "/Date(1266823962000)/",
+	"Cnt": 1867,
+	"MyBoolean": false,
+	"YourBoolean": true,
+	"FCOwner": "FCOwner 10",
+	"__metadata": {
+		"uri": "LineItemsSet('Id%2010')",
+		"type": "com.sap.GL.zrha.LineItems"
+	}
+}]
